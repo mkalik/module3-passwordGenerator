@@ -5,9 +5,9 @@
 
 A password generator that can add number, upper or lowercase letters, as well as some special characters.
 
-![Screen shot of the application](/assets/images/pwordgen_pic.png)
+![Screen shot of the application](Develop/assets/images/pwordgen_pic.png)
 
-[Try it out!](#)
+[Try it out!]((#)
 
 ## Installation:
 
